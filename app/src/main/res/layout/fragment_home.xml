@@ -1,0 +1,27 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="start|top"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Beebio"
+        android:textColor="#000000"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:paddingTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Beebio is a cutting-edge and innovative platform designed exclusively for the vibrant community of Binusians. Embracing the spirit of exploration and discovery, Beebio serves as the central hub for all things biodata, empowering Binusians to uncover fascinating insights about themselves and their fellow students."
+        android:textSize="16sp"
+        android:textColor="#999999"
+        android:paddingTop="10dp" />
+
+</LinearLayout>

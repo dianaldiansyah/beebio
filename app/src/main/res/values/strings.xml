@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beebio</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_maps">Maps</string>
+    <string name="google_maps_api_key">AIzaSyCMyXPeQNMGQDDXc_vWDJAHlgQAU8so-HY</string>
+</resources>
